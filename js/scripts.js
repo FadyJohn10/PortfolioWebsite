@@ -318,7 +318,7 @@ function initCyberbook() {
             preloadImages: false,
             loop: true,
             grabCursor: true,
-            speed: 1500,
+            speed: 2500,
             spaceBetween: 0,
             effect: "slide",
             mousewheel: mouseContr2,
@@ -332,7 +332,7 @@ function initCyberbook() {
                 prevEl: '.hsc-prev',
             },
             autoplay: {
-                delay: 3500,
+                delay: 5500,
                 disableOnInteraction: false
             },
             on: {
