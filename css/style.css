@@ -4388,3 +4388,16 @@ section {
   .note .link:hover {
 	text-decoration: underline;
   }
+
+  .articles .text-row h2{
+	font-size: 28px;
+	margin-right: 30px;
+	margin-bottom: 15px;
+  }
+
+  .articles .text-row a p{
+	color: #ccc;
+  }
+  .articles .text-row a:hover p{
+	color: #aaa;
+  }
