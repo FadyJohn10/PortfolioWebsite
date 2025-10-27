@@ -1964,7 +1964,7 @@ section {
 	content: '';
 	position: absolute;
 	left: -14px;
-	bottom: -14px;
+	bottom: 14px;
 	width: 30%;
 	height: 30%;
 	z-index: 1;
